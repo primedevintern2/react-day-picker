@@ -4,3 +4,7 @@ node_modules
 coverage
 build
 dist
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
